@@ -1,0 +1,5 @@
+4:frequency
+ cnt| string
+0001: am
+0002: sad
+Total 2 of words were successfully replaced as blank.

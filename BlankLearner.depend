@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1468156944 source:d:\_bada\blanklearner\소스\blankgenerator.c
+	"header.h"
+	<time.h>
+
+1468334090 d:\_bada\blanklearner\소스\header.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<conio.h>
+	<windows.h>
+
+1469254550 source:d:\_bada\blanklearner\소스\custom_blank.c
+	"header.h"
+
+1479700978 source:d:\_bada\blanklearner\소스\screen.c
+	"header.h"
+
+1505990411 source:d:\_bada\blanklearner\소스\main.c
+	"header.h"
+
+1468156944 source:d:\프로그래밍\_bada\blanklearner\소스\blankgenerator.c
+	"header.h"
+	<time.h>
+
+1468334090 d:\프로그래밍\_bada\blanklearner\소스\header.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<conio.h>
+	<windows.h>
+
+1469254550 source:d:\프로그래밍\_bada\blanklearner\소스\custom_blank.c
+	"header.h"
+
+1521992405 source:d:\프로그래밍\_bada\blanklearner\소스\main.c
+	"header.h"
+
+1521994161 source:d:\프로그래밍\_bada\blanklearner\소스\screen.c
+	"header.h"
+
+1554129422 source:d:\codeblock\source\blanklearner\blankgenerator.c
+	"header.h"
+
+1554033205 d:\codeblock\source\blanklearner\header.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1554032753 source:d:\codeblock\source\blanklearner\custom_blank.c
+	"header.h"
+
+1554131357 source:d:\codeblock\source\blanklearner\screen.c
+	"header.h"
+
+1554808741 source:d:\codeblock\source\blanklearner\main.c
+	"header.h"
+	<dirent.h>
+
+1554809084 source:d:\codeblock\source\blanklearner\hell_mode.c
+	"header.h"
+
